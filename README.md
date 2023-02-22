@@ -1,0 +1,3 @@
+# proyek_akhir_membuat_model_sistem_rekomendasi
+
+sistem rekomendasi buku menggunakan collaborative filtering
